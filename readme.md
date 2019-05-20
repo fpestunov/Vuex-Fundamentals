@@ -56,3 +56,10 @@ yarn add vuex
 
 - create store/index.js
 
+## 4. Vuex Mutations
+
+Mutations are a responsible for single state changes. We’ll show you how and create the mutation needed to set the products in our store, and we’ll stress the importance of understanding the true difference between actions and mutations.
+
+We’ll also implement what we’ve learned in our shopping cart app.
+
+Update code and see result in Crome Dev Tool & Vue Dev Tool.
