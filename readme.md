@@ -63,3 +63,11 @@ Mutations are a responsible for single state changes. We’ll show you how and c
 We’ll also implement what we’ve learned in our shopping cart app.
 
 Update code and see result in Crome Dev Tool & Vue Dev Tool.
+
+## 5. Vuex Getters
+
+Think of the Vuex getters as computed properties - perfect when we need to filter or calculate something at runtime.
+
+This lesson explains how the getters work, and how and where to define them. We’ll also implement what we’ve learned in our shopping cart.
+
+When we change inventory in `shop.js` we see in Vue Dev Tools -> Vuex -> Getters filtered array.
